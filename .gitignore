@@ -27,6 +27,9 @@ ENV/
 env/
 .venv/
 
+# Environment Variables
+.env
+
 # IDE / Editor specific
 .vscode/
 .idea/
