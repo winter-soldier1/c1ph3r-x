@@ -1,31 +1,30 @@
 # C1PH3R-X 🚀
 
-> **The most powerful terminal IDE ever created.**
+> **THE AUTONOMOUS CYBER-TERMINAL IDE ENGINE v2.0**
 
-C1PH3R-X is a lightweight, high-performance terminal-based IDE built using Python and [Textual](https://textual.textualize.io/). Designed for developers who live in the command line, it brings modern code-editing layout, file browsing, and dark mode toggles straight to your terminal.
+C1PH3R-X is an agentic, cyber-styled terminal IDE interface built with Python, [Rich](https://github.com/Textualize/rich), and the official [Google GenAI SDK](https://github.com/googleapis/python-genai). Designed for developers who live in the command line, it provides seamless real-time AI assistance directly inside your shell.
 
 ---
 
 ## ✨ Features
 
-- **Built with Textual**: Smooth, modern Terminal User Interface (TUI) layout.
-- **Integrated File Tree**: Easily browse workspace files directly inside the editor.
-- **Custom CSS Styling**: Dark, sleek interface with customizable grid layouts.
-- **Keyboard Shortcuts**: Built-in keyboard navigation for fast workflows.
+- **Cyberpunk Terminal Interface**: Styled banner, system status bar, dynamic directory detection, and color-coded status indicators powered by `rich`.
+- **Gemini 2.5 Flash Streaming**: Real-time AI response streaming directly to standard output.
+- **Environment Autodetect**: Detects active `GEMINI_API_KEY` status automatically upon launch.
+- **Built-in System Controls**: Includes `/help` navigation and `/exit` commands for fluid interaction.
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation & Setup
 
 ### Prerequisites
 
-Ensure you have Python 3.8+ installed on your system.
+- Python 3.8+
+- A Google Gemini API Key
 
-### Install Dependencies
+### Installation
 
-Clone the repository and install the required dependencies:
-
-```bash
-git clone [https://github.com/your-username/c1ph3r-x.git](https://github.com/your-username/c1ph3r-x.git)
-cd c1ph3r-x
-pip install -r requirements.txt
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/c1ph3r-x.git](https://github.com/your-username/c1ph3r-x.git)
+   cd c1ph3r-x
