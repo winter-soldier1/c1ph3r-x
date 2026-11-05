@@ -1,14 +1,3 @@
-# c1ph3r-x
-The autonomous cyber-terminal ide engine v2.0
-**#📦 Project Structure**
-# **c1ph3r-x/**
-│
-├── c1ph3r-x.py         # Main application entry point
-├── requirements.txt    # Project dependencies
-├── LICENSE             # MIT License
-├── .gitignore          # Git ignore rules
-└── README.md           # Project documentation
-
 # C1PH3R-X 🚀
 
 > **The most powerful terminal IDE ever created.**
